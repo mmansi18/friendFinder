@@ -63,3 +63,8 @@ main h1 {
 #mainpanel-content {
     margin: 50px;
 }
+
+#cr{
+    text-align: center;
+    color: white;
+}
